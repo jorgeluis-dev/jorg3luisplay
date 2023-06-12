@@ -17,6 +17,21 @@
 </div>
   
   ##
+  ## Skills
+
+- JavaScript
+- TypeScript
+- React Native
+- HTML5
+- CSS3
+- Python
+- Java
+- Spring Boot
+- Hibernate
+- RESTful APIs
+- Servlets
+- JSP
+- Apache Maven
  
 ## Connect with Me
 
