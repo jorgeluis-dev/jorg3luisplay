@@ -1,32 +1,22 @@
-# Hellooo Guys, I'm Jorge Luis Sampaio de Oliveira.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeluis-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeluis-dev&layout=compact&langs_count=7&theme=dracula"/>
+## Technology tools
+<div style="display: inline_block"><br>  
+   <img align="center" alt="eujorge.tech/java" height="100" width="100" src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png">
+   <img align="center" alt="eujorge.tech/spring" height="100" width="120" src="https://miro.medium.com/v2/resize:fit:1100/0*5FEJ7emIEAxZRCQF">
+   <img align="center" alt="eujorge.tech/kubernetes" height="55" width="120" src="https://media.licdn.com/dms/image/C4D12AQFzGiVjb94Pxg/article-cover_image-shrink_720_1280/0/1635316789230?e=2147483647&v=beta&t=TxZlzlC-NsseBsUPVIEs9a7GB4wTzmz0iw9qdrjNI18">
+   <img align="center" alt="eujorge.tech/quarkus" height="40" width="130" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Quarkus-logo.svg/2560px-Quarkus-logo.svg.png">
+   <img align="center" alt="eujorge.tech/restapi" height="100" width="120" src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg">
+   <img align="center" alt="eujorge.tech/android" height="100" width="120" src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-1-2.png">
+ 
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/jorgeluis-dev/jorgeluis-dev/main/img.jpeg">
-</div>
-  
-  ##
+
   ## Skills
-
-- JavaScript
-- TypeScript
-- React Native
-- HTML5
-- CSS3
-- Python
 - Java
 - Spring Boot
+- Quarkus
+- Jakarta EE
+- Spring Modulith
 - Hibernate
 - RESTful APIs
 - Servlets
@@ -36,11 +26,13 @@
 ## Connect with Me
 
 <div> 
-  <a href="https://www.instagram.com/jorgeluis_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/eujorge.tech" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jorgeloliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:jorgeluis.geek@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:softwareeujorge.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+# [https://eujorge.tech/](https://eujorge.tech/)
+
+
+
+
