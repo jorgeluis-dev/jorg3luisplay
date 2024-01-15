@@ -1,6 +1,6 @@
 
 ## Technology tools
-<div style="display: inline_block"><br>  
+<div style="display: inline-block; background-color: white; padding: 10px;"><br>  
    <img align="center" alt="eujorge.tech/java" height="100" width="100" src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png">
    <img align="center" alt="eujorge.tech/spring" height="100" width="120" src="https://miro.medium.com/v2/resize:fit:1100/0*5FEJ7emIEAxZRCQF">
    <img align="center" alt="eujorge.tech/kubernetes" height="55" width="120" src="https://media.licdn.com/dms/image/C4D12AQFzGiVjb94Pxg/article-cover_image-shrink_720_1280/0/1635316789230?e=2147483647&v=beta&t=TxZlzlC-NsseBsUPVIEs9a7GB4wTzmz0iw9qdrjNI18">
