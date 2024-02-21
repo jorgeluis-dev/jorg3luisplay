@@ -30,7 +30,7 @@
   <a href="mailto:softwareeujorge.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-# [https://eujorge.tech/](https://eujorge.tech/)
+# [https://devjorge.com.br/]([https://devjorge.com.br](https://devjorge.com.br/)/)
 
 
 
